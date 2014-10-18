@@ -1,0 +1,21 @@
+.f-mt10 {
+	margin-top: 10px;
+}
+.f-mt20 {
+	margin-top: 20px;
+}
+.f-mt30 {
+	margin-top: 30px;
+}
+.f-mt40 {
+	margin-top: 40px;
+}
+.f-cp {
+	cursor: pointer;
+}
+.f-hd {
+	display: none;
+}
+.f-db {
+	display: block;
+}
